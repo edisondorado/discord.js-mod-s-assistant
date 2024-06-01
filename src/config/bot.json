@@ -1,0 +1,27 @@
+{
+    "bot": {
+        "token": "YOUR_TOKEN",
+        "clientId": "YOUR_CLIENT_ID",
+        "guildId": "TEST_GUILD_ID",
+        "dev": "DEVELOPER_ID"
+    },
+    "commands": [
+        "checkban",
+        "checkrole",
+        "embed",
+        "mclear",
+        "notify",
+        "profile_mode",
+        "revokelog",
+        "voteban",
+        "ban",
+        "kick",
+        "mute",
+        "unban",
+        "mpmute",
+        "unmpmute",
+        "mpmuterole",
+        "ticketban",
+        "unticketban"
+    ]
+}
